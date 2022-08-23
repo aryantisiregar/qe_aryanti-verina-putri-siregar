@@ -1,8 +1,8 @@
 # qe_aryanti-verina-putri-siregar
 
-Nama : Aryanti Verina Putri Siregar
-NIM  : 11S19065
-Asal : Institut Teknologi Del
+<br>Nama : Aryanti Verina Putri Siregar
+<br>NIM  : 11S19065
+<br>Asal : Institut Teknologi Del
 
 ==================================================
 <br>**Version Control and Branch Management (Git)**
