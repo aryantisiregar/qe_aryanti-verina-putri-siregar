@@ -23,8 +23,8 @@ Terdiri dari dua jenis:
 
 3. Revision Control System (RCS)
 Terdapat 2 cara melakukan sinkronisasi server di lokal
-1. Clone => kosongan
-2. Remote => Jika terdapat projek sebelumnya, maka projek akan dihubungkan ke server
+- Clone => kosongan
+- Remote => Jika terdapat projek sebelumnya, maka projek akan dihubungkan ke server
 
 Beberapa perintah dasar pada git:
 - git init => untuk inisialisai awal
