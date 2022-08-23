@@ -9,9 +9,9 @@ a. Versioning
 Fungsi versioning mengatur versi atau pelacakan perubahan dari source code program. 
 Tools yang digunakan untuk melakukan revisi adalah:
 1. Version Control System (VCS)
-Single User -> untuk tertracking lokal
-Centralized -> untuk tertracking di internet dari server lokal (bersifat terpusat di internet)
-Distributed -> gabungan dari single user dan centralized
+<br>Single User -> untuk tertracking lokal
+<br>Centralized -> untuk tertracking di internet dari server lokal (bersifat terpusat di internet)
+<br>Distributed -> gabungan dari single user dan centralized
 
 **GIT REPOSITORY**
 Terdiri dari dua jenis:
