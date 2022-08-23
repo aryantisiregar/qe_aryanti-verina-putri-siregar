@@ -6,8 +6,8 @@ Asal : Institut Teknologi Del
 ==================================================
 **Version Control and Branch Management (Git)**
 a. Versioning
-Fungsi versioning mengatur versi atau pelacakan perubahan dari source code program. 
-Tools yang digunakan untuk melakukan revisi adalah:
+<br>Fungsi versioning mengatur versi atau pelacakan perubahan dari source code program. 
+<br>Tools yang digunakan untuk melakukan revisi adalah:
 1. Version Control System (VCS)
 <br>Single User -> untuk tertracking lokal
 <br>Centralized -> untuk tertracking di internet dari server lokal (bersifat terpusat di internet)
