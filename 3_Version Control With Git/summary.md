@@ -4,8 +4,8 @@ Nama : Aryanti Verina Putri Siregar
 NIM  : 11S19065
 Asal : Institut Teknologi Del
 
-==================================================</n>
-**Version Control and Branch Management (Git)**
+==================================================
+<br>**Version Control and Branch Management (Git)**
 <br>a. Versioning
 <br>Fungsi versioning mengatur versi atau pelacakan perubahan dari source code program. 
 <br>Tools yang digunakan untuk melakukan revisi adalah:
