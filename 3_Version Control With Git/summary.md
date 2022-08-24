@@ -35,7 +35,3 @@ Beberapa perintah dasar pada git:
 - git checkout => untuk mengecek kita berada di branch mana
 - git merge =>untuk menyatukan branch
 
-
-checkout develop
-Nama : Aryanti Siregar
-Kelas: B
