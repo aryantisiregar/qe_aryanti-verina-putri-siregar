@@ -37,3 +37,5 @@ Beberapa perintah dasar pada git:
 
 
 checkout develop
+Nama : Aryanti Siregar
+Kelas: B
