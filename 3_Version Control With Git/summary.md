@@ -34,3 +34,6 @@ Beberapa perintah dasar pada git:
 - git push => untuk menyimpan perubahan di repository global
 - git checkout => untuk mengecek kita berada di branch mana
 - git merge =>untuk menyatukan branch
+
+
+checkout develop
