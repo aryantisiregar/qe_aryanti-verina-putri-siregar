@@ -1,0 +1,50 @@
+
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FaktorBilangan2",
+            "request": "launch",
+            "mainClass": "FaktorBilangan2",
+            "projectName": "Praktikum_c444a768"
+        },
+        {
+            "type": "java",
+            "name": "Launch FaktorBilangan",
+            "request": "launch",
+            "mainClass": "FaktorBilangan",
+            "projectName": "Praktikum_c444a768"
+        },
+        {
+            "type": "java",
+            "name": "Launch KonversiNilai",
+            "request": "launch",
+            "mainClass": "KonversiNilai",
+            "projectName": "Praktikum_c444a768"
+        },
+        {
+            "type": "java",
+            "name": "Launch LuasSegitiga",
+            "request": "launch",
+            "mainClass": "LuasSegitiga",
+            "projectName": "Praktikum_c444a768"
+        },
+        {
+            "type": "java",
+            "name": "Launch Menghitung_luas_segitiga",
+            "request": "launch",
+            "mainClass": "Menghitung_luas_segitiga",
+            "projectName": "Praktikum_c444a768"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
