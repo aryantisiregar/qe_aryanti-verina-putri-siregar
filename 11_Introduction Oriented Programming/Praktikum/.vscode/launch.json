@@ -7,6 +7,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BilanganPrima",
+            "request": "launch",
+            "mainClass": "BilanganPrima",
+            "projectName": "Praktikum_c444a768"
+        },
+        {
+            "type": "java",
             "name": "Launch FaktorBilangan2",
             "request": "launch",
             "mainClass": "FaktorBilangan2",

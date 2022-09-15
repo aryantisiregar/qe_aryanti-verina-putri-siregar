@@ -6,9 +6,9 @@ public class FaktorBilangan2 {
         System.out.println("Input: ");
         bilangan = a.nextInt();
         System.out.println("Output:");
-        int tambah = 0;
+        int i = bilangan;
         for (int j = bilangan; j >= 0; j--) {
-            i++;
+            i--;
             if (bilangan % i == 0) {
                 System.out.print(i + "\n");
             }
