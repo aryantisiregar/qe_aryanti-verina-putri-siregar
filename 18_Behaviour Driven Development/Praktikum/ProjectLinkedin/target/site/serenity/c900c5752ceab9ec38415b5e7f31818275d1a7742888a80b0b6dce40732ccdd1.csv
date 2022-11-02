@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search","Success Search a profile","SUCCESS","2022-03-23T09:04:34.8967624+07:00[Asia/Jakarta]","0.0","0.04"
+"Search","Success clear history","SUCCESS","2022-03-23T09:04:34.9587681+07:00[Asia/Jakarta]","0.0","0.04"
+"Search","Success display list of username that contains to our search","SUCCESS","2022-03-23T09:04:35.0217724+07:00[Asia/Jakarta]","0.0","0.04"

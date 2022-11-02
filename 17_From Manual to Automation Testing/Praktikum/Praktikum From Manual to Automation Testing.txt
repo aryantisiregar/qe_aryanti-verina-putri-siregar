@@ -1,0 +1,31 @@
+Praktikum From Manual to Automation Testing
+
+1. Test CRUD methods in Sample REST API testing framework
+
+#4 DELETE posts example 880ms
+Melakukan request berupa DELETE untuk melakukan action delete post dengan kecepatan 880ms per action pada section ini
+
+#2 GET posts example 212ms
+Melakukan request ke server sistem berupa GET untuk melakukan action get post dengan kecepatan 212 ms per action pada section ini
+
+#1 POST post example 786ms
+Melakukan request berupa POST untuk melakukan action post post ke server sistem dengan kecepatan 786ms per action pada section ini.
+
+#3 UPDATE posts example 764ms
+Melakukan request berupa UPDATE untuk melakukan action update perubahan post dengan kecepatan 764ms per action pada section ini.
+
+
+2. Deskripsi:
+
+a. Petstore 
+- %Passed = 100% -> artinya semua test case yang dijalankan pada test ini berjalan dengan baik dan semua valid
+- Test Count = 1 -> artinya test case yang dilakukan pada test ini sebanyak satu
+
+b. Search
+- %Passed = 75% -> artinya dari semua test case yang dijalankan hanya 75% yang berjalan baik dan valid (warna green), 25% lagi tidak/belum ditesting (warna blue)
+- Test Count = 4 -> artinya test case yang ada pada test ini sebanyak 4.
+
+c. Shopping Cart 
+- %Passed = 50% -> artinya dari semua test case yang dijalankan hanya 50% yang berjalan baik dan resultnya valid (warna green), dan 50% lagi failed (warna red)
+- Test Count = 2 -> artinya test case yang ada pada test ini sebanyak 2
+
